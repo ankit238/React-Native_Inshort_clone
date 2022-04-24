@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "musicapp",
-    "slug": "musicapp",
+    "name": "newsapp",
+    "slug": "newsapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.ankit_kkumar.musicapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
